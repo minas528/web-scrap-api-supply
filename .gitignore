@@ -1,0 +1,4 @@
+node_api/node_modules
+node_api/.env
+node_api/package-lock.json
+__pycache__
